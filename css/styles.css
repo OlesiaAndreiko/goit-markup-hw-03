@@ -264,10 +264,6 @@ img {
   background-color: var(--white-cl);
 }
 
-.team-img {
-  display: block;
-}
-
 .team-desc {
   padding: 30px;
 }
